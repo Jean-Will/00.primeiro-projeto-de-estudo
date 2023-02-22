@@ -12,4 +12,4 @@ function validarEmail(){
 
 console.log(validarEmail);
 
-alert("teste");
+alert("Seja Bem Vindo");
