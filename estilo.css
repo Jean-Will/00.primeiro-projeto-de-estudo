@@ -1,0 +1,80 @@
+
+body{ background-image: url(iamtruth.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+background-position: center center ;
+background-size: cover;
+ width: auto;
+ height: auto;
+ max-width: 100%;
+ min-width: none;
+ max-height: 100%
+ 
+} 
+
+/*
+.gradiente{ display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   width: 100vw;
+   background:linear-gradient(45deg , 82AAE3 , 91D8E4 , BFEAF5, EAFDFC ) ;
+
+
+teste de background animado que falhou ( deixado aqui para tentar corrigir depois)
+}*/
+
+
+
+li {color:black;}
+
+     h1 {text-align: center;
+        font-size: 55px; 
+        color: black;
+        font-family: cursive;
+     }
+
+     a {color: rgba(5, 1, 26, 0.459)
+   
+   }
+ 
+      button {color: red;
+         
+      
+      /*}
+           
+     { <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.087789623679!2d-8.766056584329304!3d41.39389980355395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2447fb7028b5b5%3A0x3ce4b2690a941adc!2sComunidade%20Crist%C3%A3%20%C3%81gape!5e0!3m2!1spt-PT!2spt!4v1662834705907!5m2!1spt-PT!2spt" width="600" height="450" style="border:1500;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+     infrme src="canto superior direito "
+   */
+
+   }
+   h1 {color:black;
+      text-align: center center;
+      font-family: cursive;
+  }
+
+title{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+video{
+   border-radius:  10px;
+   width: 25%;
+   
+
+}
+a{
+   color:black;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+}
+
+
+p{
+   font-family: 'Courier New', Courier, monospace;
+   color: black;
+
+}
+
+.text{
+   color:black ;
+}
